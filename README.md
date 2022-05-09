@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sakshimani
+- 👋 Hi, I’m @sakshishinde
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on ...
